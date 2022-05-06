@@ -27,8 +27,9 @@ produits pour animaux de compagnie, acquiert 5,8 millions des actions `$GME`, so
 des utilisateurs du forum reddit [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) (reddit.com) constatent
 l'appréciation négative que le marché semble avoir pour Gamestop, notamment avec l'abus du "short selling" de ses
 actions, et décident d'acheter `$GME` en masse, menant à un emballement du cours de l'action de $18 le 4 janvier 2021 à
-$483 20 jours plus tard. Je conseille la [vidéo](http://www.youtube.com/watch?v=EGs5kYYw6d8) (youtube.com) 
-de `Heu?reka` qui raconte l'histoire de Gamestop et explique en détail l'affaire de janvier 2021. 
+$483 20 jours plus tard. On conseille la [vidéo](http://www.youtube.com/watch?v=EGs5kYYw6d8) (youtube.com) 
+de `Heu?reka` qui raconte l'histoire de Gamestop et explique en détail l'affaire de janvier 2021. À l'écriture de cet
+article, début mai 2022, l'action `$GME` s'échange aux alentours de $120.
 
 - Le 16 Novembre 2020, Ryan Cohen, au travers de son fond d'investissement `RC Ventures`, addresse une [lettre ouverte](https://www.sec.gov/Archives/edgar/data/1326380/000101359420000821/rc13da3-111620.pdf) (sec.gov)
 au conseil d'administration de l'entreprise, les urgant d'investir dans les nouvelles technologies et de faire de 
@@ -53,7 +54,7 @@ précédemment "Engineering Leader" chez Amazon Web Services.
 
 - Le 5 avril 2021, [Matthew Finestone](https://www.linkedin.com/in/matthew-finestone-7bb8ba51) (linkedin.com), précédemment
 "Head of Business" chez [Loopring](https://loopring.org/#/) (loopring.org), une entreprise mettant au point des technologies 
-de scaling L2 pour ethereum, [annonce](https://matthewfinestone.medium.com/thank-you-loopring-16993766c200) (medium.com) 
+de scaling L2 pour Ethereum, [annonce](https://matthewfinestone.medium.com/thank-you-loopring-16993766c200) (medium.com) 
 dans une lettre ouverte son départ de l'entreprise, pour devenir "Head of Blockchain" chez Gamestop.
 
 ```
@@ -115,7 +116,7 @@ début d'afficher quelques collections:
 ![image](https://gmedd.com/wp-content/uploads/2022/03/gmenftmarketplaceexplore-2048x1954.png)
 
 
-Tout ceci est sur la blockchain ethereum, donc les NFTs que l'on possède sont accessibles ici aussi
+Tout ceci est sur la blockchain Ethereum, donc les NFTs que l'on possède sont accessibles ici aussi
 
 ![image](https://user-images.githubusercontent.com/105051534/167162783-744283ee-e0ec-4ff5-bec2-b01004aa6e56.png)
 
@@ -125,7 +126,20 @@ pivot de l'entreprise dans le web3:
 
 - Le 5 mai 2022, [`wallet.gamestop.com`](https://wallet.gamestop.com/) (gamestop.com) est rendu disponible, annonçant le
 wallet de Gamestop, disponible prochainement en extension pour Chrome (surement Chromium donc Brave et Opera aussi) 
-et/ou sur application iphone. Le même jour,[`support.blockchain.gamestop.com`](https://support.blockchain.gamestop.com/hc/en-us) (gamestop.com)
+et/ou sur application iphone. 
+- Le même jour,[`support.blockchain.gamestop.com`](https://support.blockchain.gamestop.com/hc/en-us) (gamestop.com)
 est aussi rendu disponible, avec une multitude d'articles expliquant les bases des cryptomonnaies et des NFTs, ainsi que des
-détails sur le wallet: 
-- ![image](https://support.blockchain.gamestop.com/hc/article_attachments/5558780066579/send_on_l1.gif)
+détails sur le wallet, qui semble être un clone de metamask sous stéroides: il est capable d'afficher d'envoyer, 
+recevoir, échanger et déposer des cryptomonnaies et des NFTs, qu'ils peut aussi directement afficher. Il permet de faire
+tout cela sur la blockchain ethereum classique, mais surtout sur le Layer 2 de Loopring.
+![image](https://support.blockchain.gamestop.com/hc/article_attachments/5558780066579/send_on_l1.gif)
+
+---
+# Layer 2
+![image](https://bitscrunch.com/wp-content/uploads/2022/03/image2.jpg)
+
+C'est le moment où on va devoir parler un peu technique. Loopring est l'élément clé qui va permettre à Gamestop de
+ramener son public historique dans la blockchain avec le moins de friction possible, plus précisément avec des frais
+de transactions complètement négligeables, sans aucun sacrifice sur la sécurité.
+
+Loopring est un protocole qui se greffe à Ethereum et permet de construire ce fameux Layer 2 nommé plus haut.
