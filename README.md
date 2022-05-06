@@ -34,12 +34,14 @@ de `Heu?reka` qui raconte l'histoire de Gamestop et l'affaire de janvier 2021.
 au conseil d'administration de l'entreprise, les urgant d'investir dans les nouvelles technologies et de faire de 
 Gamestop une "tech company" de rang majeur. 
 
-> Although GameStop’s e-commerce sales have increased significantly during the pandemic, annual revenues
+```
+Although GameStop’s e-commerce sales have increased significantly during the pandemic, annual revenues
 have declined by a staggering margin over time. The next console cycle’s temporary sales bump is not a
 justification for complacency and glacial transformation.
->
->GAMESTOP’S LEADERSHIP MUST PROMPTLY PIVOT FROM A BRICK-AND-MORTAR MINDSET
+
+GAMESTOP’S LEADERSHIP MUST PROMPTLY PIVOT FROM A BRICK-AND-MORTAR MINDSET
 TO A TECHNOLOGY-DRIVEN VISION
+```
 
 - Le 11 janvier 2021, Gamestop [annonce](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-additional-board-refreshment-accelerate) (gamestop.com)
 l'ajout de Ryan Cohen et deux de ses associés, [Alan Attal](https://investor.gamestop.com/board-member/alan-attal) (gamestop.com)
@@ -54,11 +56,13 @@ précédemment "Engineering Leader" chez Amazon Web Services.
 [annonce](https://matthewfinestone.medium.com/thank-you-loopring-16993766c200) (medium.com) dans une lettre ouverte son départ
 de l'entreprise, pour devenir "Head of Blockchain" chez Gamestop.
 
->I am not leaving Loopring because I am tired of it, or because I am not interested in its future. [...] The fact is, 
-> an opportunity has presented itself that I am extremely excited about, and I feel I simply must take. I view it as 
-> a once-in-a-lifetime, perfect-timing, far-reaching opportunity/challenge that I need to pursue for its own sake, 
-> and for my personal development. [...] This opportunity will keep me firmly in the blockchain (Ethereum) space,
-> so I hope to be seeing many of you around real soon :).
+```
+I am not leaving Loopring because I am tired of it, or because I am not interested in its future. [...] The fact is, 
+an opportunity has presented itself that I am extremely excited about, and I feel I simply must take. I view it as 
+a once-in-a-lifetime, perfect-timing, far-reaching opportunity/challenge that I need to pursue for its own sake, 
+and for my personal development. [...] This opportunity will keep me firmly in the blockchain (Ethereum) space,
+so I hope to be seeing many of you around real soon :).
+```
 
 - Le 8 avril 2021, Gamestop [annonce](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-slate-director-candidates-2021-annual-meeting) (gamestop.com)
 l'intention du conseil d'administration de faire de Ryan Cohen son président.
@@ -67,11 +71,12 @@ l'intention du conseil d'administration de faire de Ryan Cohen son président.
 que son directeur général [George Sherman](https://www.linkedin.com/in/georgesherman/) (linkedin.com) quittera l'entreprise le 31 juillet 2021.
 
 - Le 26 avril 2021, Gamestop [annonce](https://news.gamestop.com/news-releases/news-release-details/gamestop-completes-market-equity-offering-program) (gamestop.com)
-avoir procédé à le vente de 3,5 millions nouvelles action $GME au New York Stock Exchange, lui donnant accès à plus de
+avoir procédé à la vente de 3,5 millions nouvelles action $GME au New York Stock Exchange, lui donnant accès à plus de
 550 millions de dollars de trésorerie.
 
 - Le 25 mai 2021, Gamestop rend disponible [`nft.gamestop.com`](https://nft.gamestop.com/) (gamestop.com) et annonce
 construire une équipe dédiée aux sujets blockchain.
+![image](https://gmedd.com/wp-content/uploads/2021/05/gmenfts.png)
 ![image](https://gmedd.com/wp-content/uploads/2021/05/GMEnfts1-1.png)
 
 - Le 9 juin 2021, Gamestop [annonce](https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-appointments-chief-executive-officer-and) (gamestop.com)
