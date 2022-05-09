@@ -111,12 +111,12 @@ créer leur profil, et déposer des fonds.
 ![image](https://gmedd.com/wp-content/uploads/2022/03/gamestopnftprofile-1536x578.png)
 
 
-Rien n'est censé être disponible avant la sortie officielle, mais des manipulations du navigateur permettaient au 
+- Rien n'est censé être disponible avant la sortie officielle, mais des manipulations du navigateur permettaient au 
 début d'afficher quelques collections:
 ![image](https://gmedd.com/wp-content/uploads/2022/03/gmenftmarketplaceexplore-2048x1954.png)
 
 
-Tout ceci est sur la blockchain Ethereum, donc les NFTs que l'on possède sont accessibles ici aussi
+- Tout ceci est sur la blockchain Ethereum, donc les NFTs que l'on possède sont accessibles ici aussi
 
 ![image](https://user-images.githubusercontent.com/105051534/167162783-744283ee-e0ec-4ff5-bec2-b01004aa6e56.png)
 
@@ -138,8 +138,22 @@ tout cela sur la blockchain ethereum classique, mais surtout sur le Layer 2 de L
 # Layer 2
 ![image](https://bitscrunch.com/wp-content/uploads/2022/03/image2.jpg)
 
-C'est le moment où on va devoir parler un peu technique. Loopring est l'élément clé qui va permettre à Gamestop de
-ramener son public historique dans la blockchain avec le moins de friction possible, plus précisément avec des frais
-de transactions complètement négligeables, sans aucun sacrifice sur la sécurité.
+C'est le moment où on va devoir parler un peu technique. Loopring est l'élément clé qui va permettre à Gamestop
+d'embarquer son public historique dans le web3 avec le moins de friction possible, plus précisément avec des frais
+de transactions complètement négligeables, et ce sans aucun sacrifice sur la sécurité.
 
-Loopring est un protocole qui se greffe à Ethereum et permet de construire ce fameux Layer 2 nommé plus haut.
+Le terme `Layer 2` désigne un framework ou un protocole qui se greffe à une blockchain, et permet de faire fonctionner
+des applications sur cette chaine, tout en de fonctionnalités ou d'optimisations non présentes sur celle ci. Leur utilité principale
+est d'augmenter la performance de la chaine sous-jacente, majorirairement sur le nombre de transactions par seconde et
+donc sur le montant des frais de transactions. Ils sont largement acceptés par la communauté comme indispensables pour
+l'adoption à grande échelle de ces technologies. Si l'on se dirige effectivement vers un monde dans lequel la notion
+de propriété sera digitalisée avec les promesses des NFTs, il est impensable qu'on continue de devoir payer des dizaines
+d'euros pour chaque opération effectuée sur une blockchain comme Ethereum.
+
+On emploie alors `Layer 1` pour désigner la blockchain de base, c'est à dire généralement une méthode de stockage de données
+et une méthode de consensus, par exemple Bitcoin et Ethereum, `Layer 2` pour la surcouche de scaling, par exemple
+Lightning Network pour Bitcoin, et Artbitrum ou Optimism pour Ethereum. Enfin, le terme `Layer 3` représente toutes les applications
+qui viennent intéragir avec la ou les blockchain, en utilisant des Layer 2 ou non, avec par exemple des marketplaces
+comme OpenSea, ou des applications de DeFi comme PancakeSwap.
+
+Attention à ne pas confondre Layer 2 et Sidechains: 
