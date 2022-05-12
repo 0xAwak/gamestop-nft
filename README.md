@@ -23,7 +23,7 @@ Xbox One l'année d'avant, à moins de 200 millions en mars 2020.
 
 C'est en aout de la même année que [Ryan Cohen](https://en.wikipedia.org/wiki/Ryan_Cohen) (wikipedia.org), après 
 la vente en 2017 pour 3,35 milliards de dollars de [Chewy](https://www.chewy.com/) (chewy.com), son entreprise de vente de
-produits pour animaux de compagnie, acquiert 5,8 millions des actions `$GME`, soit 9% de l'entreprise. Au même moment, 
+produits pour animaux de compagnie, acquiert 9 millions des actions `$GME`, soit 9% de l'entreprise. Au même moment, 
 des utilisateurs du forum reddit [r/wallstreetbets](https://www.reddit.com/r/wallstreetbets/) (reddit.com) constatent
 l'appréciation négative que le marché semble avoir pour Gamestop, notamment avec l'abus du "short selling" de ses
 actions, et décident d'acheter `$GME` en masse, menant à un emballement du cours de l'action de $18 le 4 janvier 2021 à
