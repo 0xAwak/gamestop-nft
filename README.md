@@ -127,6 +127,10 @@ pivot de l'entreprise dans le web3:
 - Le 5 mai 2022, [`wallet.gamestop.com`](https://wallet.gamestop.com/) (gamestop.com) est rendu disponible, annonçant le
 wallet de Gamestop, disponible prochainement en extension pour Chrome (surement Chromium donc Brave et Opera aussi) 
 et/ou sur application iphone. 
+
+![image](https://user-images.githubusercontent.com/105051534/168154102-d02d3b35-ecbd-41fc-9545-13e2e2b2e004.png)
+
+
 - Le même jour,[`support.blockchain.gamestop.com`](https://support.blockchain.gamestop.com/hc/en-us) (gamestop.com)
 est aussi rendu disponible, avec une multitude d'articles expliquant les bases des cryptomonnaies et des NFTs, ainsi que des
 détails sur le wallet, qui semble être un clone de metamask sous stéroides: il est capable d'afficher d'envoyer, 
